@@ -24,5 +24,18 @@ Here we give a set of exercises to practice. All these exercises to be performed
 7. Pipe,append and redirect command
     Run test_example_form.py and redirect the output to the file called example_form.txt.Now using grep find the file and find how many failures and passed are there.
 
+8. In the terminal, I no longer cd to the directory of a file that I want to operate upon
+    Your task is to run the test test_example_form.py. Do you remember where is the file located? If not search it and now you will get the location. To run the test you may need to cd to the directory where it's listed. Try navigate it.
+    ok What did you do?
+    Have you done cd to the directory each time or the entire path
+    If you have give the entire path and moved it then it's a good practice to do
 
+9. Home directory, Current directory and Parrent Directory
+    Your task is to move the file from Downloads to your current directory. But you just imagine that you know only the filename but you dont the location. Try to use the proper commands without using GUI and move it
 
+10. Using vi editor
+    ssh into your aws machine. If you have cloned our Qxf2 Page object model repository you can skip this step or clone it. Open the file called Base_Page.py in the vi or vim editor.
+    Now search the method called smart_wait and change the wait seconds to 10. Here you try to remember you are trying to do some insert operation in vi editor. Go to the start of the file and check do we have a docsting and you come to know the purpose of the page. Now go to the end of the file and check do we have any extra lines. We should not leave any new lines at the end of the file. Can you delete the docstring line of the wait method and add another docstring. Now without saving the file come out the editor.
+
+11. Multiple Bash/command and switch between those windows
+    Open the Bash and run our Qxf2 Page object model test. Open another Bash terminal and start workin. Open the Python interpreter and check how the ranje function works. Now go to the bash which is running the test. But remeber you have to use the keyboard to switch between these prompts
