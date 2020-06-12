@@ -1,7 +1,7 @@
 """
 Answers for the exercise:
 """
-Q.1.Open the file file_vi_keyboard_shortcuts.py using vi editor.
+Q.1. Open the file file_vi_keyboard_shortcuts.py using vi editor.
 Ans: vi file_vi_keyboard_shortcuts
 
 Q.2. Open the file file_vi_keyboard_shortcuts.py in the insert mode
@@ -37,4 +37,5 @@ Ans. Make some cahnges and save and quit the file using `:wq`
 Q.12 How to quit file without saving
 Ans: You can quit the file using `:q`
 
-Q.13
+Q.13 How do you search "Hello" word in the file_vi_keyboard_shortcuts.py file.
+Ans. You can search `/Hello` in the file. The word will be highlighted
