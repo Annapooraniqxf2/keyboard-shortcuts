@@ -18,13 +18,10 @@ Here we give a set of exercises to practice. All these exercises to be performed
 5. create an alias with variable names to help me move faster
     Every time you run the tests in Qxf2 Page Object model or other repository, you have to create the virtual environment and then you have to activate and deactivate whenever you work on the directory. So it's very difficult to type the lengthy process and you have to remember the virtual environment name. Can you try to find a shortcut or an easy way to perform the operation. Can you try to create the 'alias' operation in your machine and try to use it every time. And also try to create the 'alias' for your Git operations which you use frequently. Like git pull,push etc...
 
-6. write a simple bash script for performing repeated commands
-    In our tests folder we have set of tests and all test should be run one by one. We can use pytest to run all the test in one command. But can you try to write the shell script to rull all our test in one command(without using pytest)?You have to run the test in the local machine and then the test should run in the Browserstack also
-
-7. Pipe, append, and redirect command
+6. Pipe, append, and redirect command
     Run test_example_form.py and redirect the output to the file called example_form.txt.Now using grep find the file and find how many failures and passed are there.
 
-8. In the terminal, I no longer cd to the directory of a file that I want to operate upon
+7. In the terminal, I no longer cd to the directory of a file that I want to operate upon
     Your task is to run the test test_example_form.py. Do you remember where is the file located? If not search it and now you will get the location. To run the test you may need to cd to the directory where it's listed. Try navigate it.Ok, what did you do?
     Have you done cd to the directory each time or the entire path
     If you have given the entire path and moved it then it's a good practice to do
