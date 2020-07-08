@@ -2,7 +2,7 @@
 Here we are going to use a lot of Visual Studio Code, Bash and Qxf2 framework. Add the folder for example where you have stored all your Github repository as your workspace(if not done). We will work on our Qxf2 Page Object Model framework(https://github.com/qxf2/qxf2-page-object-model) and keyboard shortcuts repository(https://github.com/Annapooraniqxf2/keyboard-shortcuts). So make sure you have cloned those two repositories and it's in your workspace.
 ----------------------------------------------------------------------------------------
 
-1. In this keyboard shortcuts repository we have a file called 'file1.py'. Now can you open the file without using the mouse in the Visual Studio Code and write the Python program (Fizz buzz) using methods. After completing the program, run it in the Visual Studio Code and Git bash
+1. Create a new file called 'fizzbuzz.py'and save it inside the vs_keyboard_shortcuts. Now can you open the same file without using the mouse in the Visual Studio Code and write the Python program (Fizz buzz) using methods. After completing the program, run it in the Visual Studio Code and Git bash
 
 2. Open a file 'fizzbuzz_gotoline.py' in Visual Studio Code, Goto the end of the file and check any extra space is there. If Yes delete the extra lines and save the program. Run the 'fizzbuzz_gotoline.py' program in the bash and see the error. Come to visual studio code and search the line number and fix the error. Go to git bash and run the program. To alternate between Visual Studio Code and Git bash use the keyboard.
 
