@@ -1,5 +1,5 @@
 """
-Here we give a set of exercises to practice. All these exercises to be performed by using the keyboard. To perform all these exercises we are going to use our Qxf2 Page Object Model repository. So make sure you have already cloned the repository on your local machine.
+Here we give a set of exercises to practice. All these exercises to be performed by using the keyboard. To perform all these exercises we are going to use our Qxf2 Page Object Model repository. So make sure you have already cloned the repository on your local machine.Here we practice with Bash keyboard operations.
 """
 
 1. search through a directory for a file
