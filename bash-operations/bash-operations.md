@@ -1,7 +1,6 @@
----------------------------------------------------------------------------------------------
+--------
 Here we give a set of exercises to practice. All these exercises to be performed by using the keyboard. To perform all these exercises we are going to use our Qxf2 Page Object Model repository. So make sure you have already cloned the repository on your local machine.Here we practice with Bash keyboard operations.
-----------------------------------------------------------------------------------------------
-
+--------
 1. search through a directory for a file
     I hope you have already gone through our Page Object Model. So You have to find in which file we have kept all the common selenium methods. If you still didn't get it, I can say that it's Base_Page.py. Can you please search the file location without exploring into windows, without using the mouse?
 
