@@ -1,6 +1,7 @@
----------------------------------------------------------------------------------------
-Here we are going to use lot of vi editor. If you are having windows machine either you can create a virtual os and install ubuntu on it. If you have an aws account create an instance and ssh into it. WSL is a cool feature on Windows 10 that allows you to run most of the GNU/Linux commands and applications on Windows. If you want to do the setup you can simply follow this step https://qxf2.com/blog/setup-linux-testing-environment-on-windows-using-wsl/
-----------------------------------------------------------------------------------------
+--------
+Here we are going to use lot of vi editor. If you are having windows machine either you can create a virtual os and install ubuntu on it. If you have an aws account create an instance and ssh into it. WSL is a cool feature on Windows 10 that allows you to run most of the GNU/Linux commands and applications on Windows. If you want to do the setup you can simply follow this step [WSL](https://qxf2.com/blog/setup-linux-testing-environment-on-windows-using-wsl/)
+--------
+
 1. Create a directory called keyboard_operations. Go to the directory and create a new file called 'fizzbuzz.py'. Now open the created file in the vi/vim editor. Now write a simple fizzbuzz program without using methods and classess. Save the program and come out of it
 
 2. Open the same file one more time and try to refactor the program. For example, use the functions to write the same program. Since you have changed the program go to the starting of the file and change the docstring which is starting of the program.
