@@ -10,5 +10,5 @@ This repository contains set of exercises to practice keyboard shortcuts on Visu
 2. Need a ubuntu machine. You can work on it either SSH into aws machine, Virtual OS or WSL
 
 **What do we do here:**
-Read the exercises carefully and practice it using keyboard. If you don't know the shortcut please browse for the shortcut and perform the operations.
+Read the exercises carefully which is in keyboard-shorcuts.md and practice it using keyboard. If you don't know the shortcut please browse for the shortcut and perform the operations.
 ------
