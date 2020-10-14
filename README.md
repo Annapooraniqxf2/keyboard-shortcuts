@@ -6,10 +6,9 @@ This repository contains set of exercises to practice keyboard shortcuts on Visu
 
 
 **Setup:**
-1. Make sure you have cloned the our [Qxf2 Framework](https://github.com/qxf2/qxf2-page-object-model) and our error repositry [Error repository](https://github.com/qxf2/wtfiswronghere).
-2. Install Python, Selenium, Visual Studio Code and Git bash.
+1. Install Python, Selenium, Visual Studio Code and Git bash.
+2. Need a ubuntu machine. You can work on it either SSH into aws machine, Virtual OS or WSL
 
 **What do we do here:**
-We have three directory inside the repository. Each directroy is for separate keyboard shortcuts. So read the exercises carefully and practice it using keyboard. If you don't know the shortcut please browse for the shortcut and perform the operations.
-
+Read the exercises carefully which is in keyboard-shorcuts.md and practice it using keyboard. If you don't know the shortcut please browse for the shortcut and perform the operations.
 ------
