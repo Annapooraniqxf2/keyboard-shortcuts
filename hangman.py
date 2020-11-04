@@ -1,21 +1,19 @@
 import random
 from collections import Counter
 
-someWords = '''apple banana mango strawberry orange grape pineapple apricot lemon coconut watermelon
-cherry papaya berry peach lychee muskmelon'''
+countries = '''India China Pakistan Paris Belgium Japan Malaysia Singapore Thailand  '''
 
-someWords = someWords.split(' ')
-word = random.choice(someWords)
+countries = countries.split(' ')
+each_country = random.choice(countries)
 
 if __name__ == '__main__':
-    print('Guess the word! HINT: word is a name of a fruit')
-    for i in word:
+    for one_country in each_country:
         print('_', end = ' ')
     print()
 
     playing = True
     letterGuessed = ''
-    chances = len(word) + 2
+    chances = len(each_country) + 2
     correct = 0
 
     try:
@@ -42,11 +40,11 @@ if __name__ == '__main__':
 
 
             # If letter is guessed correcly
-            if guess in word:
+            if guess in each_country:
                 letterGuessed += guess
 
-            # Print the word
-            for char in word:
+            # Print the each_country
+            for char in each_country:
                 if char in letterGuessed:
                     print(char, end = ' ')
                     correct += 1
@@ -54,7 +52,7 @@ if __name__ == '__main__':
                     print('_', end = ' ')
 
             # If user has guessed all the letters
-            if (Counter(letterGuessed) == Counter(word)):
+            if (Counter(letterGuessed) == Counter(each_country)):
                 print()
                 print('Congratulations, You won!')
                 break
@@ -63,7 +61,7 @@ if __name__ == '__main__':
         if chances == 0:
             print()
             print('You lost! Try again..')
-            print('The word was {}'.format(word))
+            print('The each_country was {}'.format(each_country))
 
     except KeyboardInterrupt:
         print()
