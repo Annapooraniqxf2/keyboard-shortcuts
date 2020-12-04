@@ -1,5 +1,5 @@
 ---------------------
-Note: Perform below set of sequential operations using **keyboard only** . Read the exercises carefully and do it only by using keyboard. Try to use the keyboard when you do your regular work also.
+Perform below set of sequential operations using **keyboard only** . Read the exercises carefully and do it only by using keyboard. Try to use the keyboard when you do your regular work also.
 ---------------------
 
 1. Every time you create a repository or work on some other repository, you have to create the virtual environment and then you have to activate and deactivate whenever you work on the directory. So it's very difficult to type the lengthy process and you have to remember the virtual environment name. Can you try to find a shortcut or an easy way to perform the operation. Can you try to create an 'alias' in your machine and try to use it every time? Also update the create an 'alias' for your Git operations which you use frequently. Like git pull,push etc.... Create an alias for this repository. Clone it from [here](https://github.com/Annapooraniqxf2/keyboard-shortcuts/tree/rahul-keyboard-shortcuts).Use Git bash for cloning.
