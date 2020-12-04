@@ -2,7 +2,7 @@
 Note: Perform below set of sequential operations using **keyboard only** . Here we use Windows and Linux machine to perform some keyboard operations. In this repository we have added some Python files to practice the keyboard operations. Read the exercises carefully and do it only by using keyboard. Try to use the keyboard when you do your regular work also.
 ---------------------
 
-1. Every time you create a repository or work on some other repository, you have to create the virtual environment and then you have to activate and deactivate whenever you work on the directory. So it's very difficult to type the lengthy process and you have to remember the virtual environment name. Can you try to find a shortcut or an easy way to perform the operation. Can you try to create an 'alias' in your machine and try to use it every time? Also update the create an 'alias' for your Git operations which you use frequently. Like git pull,push etc.... Create an alias for this repository. Clone it from[here](https://github.com/Annapooraniqxf2/keyboard-shortcuts/tree/rahul-keyboard-shortcuts).Use Git bash for cloning.
+1. Every time you create a repository or work on some other repository, you have to create the virtual environment and then you have to activate and deactivate whenever you work on the directory. So it's very difficult to type the lengthy process and you have to remember the virtual environment name. Can you try to find a shortcut or an easy way to perform the operation. Can you try to create an 'alias' in your machine and try to use it every time? Also update the create an 'alias' for your Git operations which you use frequently. Like git pull,push etc.... Create an alias for this repository. Clone it from [here](https://github.com/Annapooraniqxf2/keyboard-shortcuts/tree/rahul-keyboard-shortcuts).Use Git bash for cloning.
  
 2. Create a new branch because we are going to do the set of operations here.
  
@@ -22,11 +22,11 @@ Note: Perform below set of sequential operations using **keyboard only** . Here 
  
 10. Create one more file called perform_math.py. Write a Python program to find those numbers which are divisible by 7 and multiple of 5, between 1500 and 2700 (both included).Would you check, how the for loop, range function and append list works in Python?. Open your Python interpreter and try all the above keywords mentioned here. Now come back to your VS code and run the program both in Bash and VS code terminal. If you hit an error with any of these try to check in the interpreter one more time and run it. Do the commit.
  
-11. You have done so much commit now, Can you squash all the commits into a single commit and push the code.To do Git squash please refer this https://sites.google.com/qxf2.com/wiki/home/r-d/githowto?authuser=0
+11. You have done so much commit now, Can you squash all the commits into a single commit and push the code.
  
 12. Now onwards we are going to use a lot of vi editor. If you are having a windows machine either you can create a virtual os and install ubuntu on it. If you have an aws account create an instance and ssh into it. WSL is a cool feature on Windows 10 that allows you to run most of the GNU/Linux commands and applications on Windows. If you want to do the setup you can simply follow this step [WSL](https://qxf2.com/blog/setup-linux-testing-environment-on-windows-using-wsl/)
  
-13. Either do SSH or WSL or virtual os and now you have a ubuntu machine and clone this [repository] (https://github.com/Annapooraniqxf2/keyboard-shortcuts).Create a new file called 'fizzbuzz_fileread.py'. Now open the created file in the vi/vim editor. Now write a simple fizzbuzz program by reading the numbers from the file. Make sure you have created the text file to read the input. Do the commit. Push it to origin/master.
+13. Either do SSH or WSL or virtual os and now you have a ubuntu machine and clone this [repository](https://github.com/Annapooraniqxf2/keyboard-shortcuts). Create a new file called 'fizzbuzz_fileread.py'. Now open the created file in the vi/vim editor. Now write a simple fizzbuzz program by reading the numbers from the file. Make sure you have created the text file to read the input. Do the commit. Push it to origin/master.
  
 14. In windows, Pull the changes whatever you have done in the Point 13(previous point).Open a file called hangman.py and run the program. Check where we are giving the input words and change those words.As of now we are giving the hints for countries. Change it to animals and run the program.Commit it. Push it to origin/master
  
