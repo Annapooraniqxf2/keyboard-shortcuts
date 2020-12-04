@@ -2,7 +2,7 @@
 This repository can be used to practice the keyboard shortcuts.
 --------
 
-This repository contains set of exercises to practice keyboard shortcuts on Visual Studio Code, Vi, and Bash operations. Fork and Clone the repository and start practicing it
+This repository contains set of exercises to practice keyboard shortcuts on Visual Studio Code, Vi, and Bash operations. Fork and Clone the repository and start practicing it. This repository consists of set of Python programs and .md file. You have to read the keyboard-shorcuts.md file and follow the steps which we asked them to do. It helps you to change the way of working with your laptop. If we use mouse for small operations it takes lot of time compare to use keyboards. To bring this keyboard habits in to your work you have to keep using it by perfoming small operations. This repository will help you to develop this habit in your work.
 
 
 <h3>Setup:</h3>
