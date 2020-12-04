@@ -18,9 +18,9 @@ c) Install Selenium
 
 d) Get setup with your browser driver. If you don't know how to, please try:
 
-    [Chrome](https://chromedriver.chromium.org/downloads)
+   i)[Chrome](https://chromedriver.chromium.org/downloads)
   
-    [Firefox](https://github.com/mozilla/geckodriver/releases)
+   ii)[Firefox](https://github.com/mozilla/geckodriver/releases)
  
 #Note: Check Firefox version & Selenium version compatibility before downloading geckodriver.
 
