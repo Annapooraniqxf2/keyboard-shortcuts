@@ -23,6 +23,7 @@ d) Get setup with your browser driver. If you don't know how to, please try:
    ii)[Firefox](https://github.com/mozilla/geckodriver/releases)
  
 #Note: Check Firefox version & Selenium version compatibility before downloading geckodriver.
+
 #Note: requirements.txt file contains some other libraries because those libraries are needed to run the Python files which is there in the repository.
 
 <h3>What do we do here:</h3>
